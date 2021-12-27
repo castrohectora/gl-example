@@ -1,4 +1,4 @@
-package ar.com.egomusic.demogradlespockdos
+package com.castrohector.gl.test
 
 import com.castrohector.gl.entity.User
 import com.castrohector.gl.repository.UserRepository
